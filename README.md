@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/RizzingRezz/github-test/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RizzingRezz/github-test/actions/workflows/pages/pages-build-deployment)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
